@@ -1,5 +1,9 @@
 ## OpenClaw / QClaw / Lobster-like App Uninstaller
 
+[English](README_en.md) | [中文说明](README_zh-CN.md)
+
+![GUI screenshot (English)](en.png)
+
 An open-source **Windows uninstaller for OpenClaw / QClaw / “lobster” style apps**, including:
 
 - **CLI version**: `uninstall_openclaw.py`

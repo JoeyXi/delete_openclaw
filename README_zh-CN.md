@@ -1,5 +1,9 @@
 ## OpenClaw / QClaw / 小龙虾 卸载工具
 
+[English](README_en.md) | [中文说明](README_zh-CN.md)
+
+![界面截图（中文）](zh.png)
+
 一个用于在 Windows 上**扫描并卸载 OpenClaw / QClaw / 小龙虾 等相关应用**的开源工具，包含：
 
 - **命令行版本**：`uninstall_openclaw.py`
